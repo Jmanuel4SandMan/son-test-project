@@ -1,7 +1,7 @@
 catalogues: [personal]
 description: Some description about this sample
 descriptor_extension: yml
-maintainer: Name, Company, Contact
+maintainer: Jonas Manuel
 name: jonas_test
 publish_to: [personal]
 repo_url: https://github.com/Jmanuel4SandMan/son-test-project
