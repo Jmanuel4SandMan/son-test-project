@@ -2,8 +2,8 @@ catalogues: [personal]
 description: Some description about this sample
 descriptor_extension: yml
 maintainer: Jonas
-name: jonas_test
+name: dfgbdfg
 publish_to: [personal]
-repo_url: https://github.com/Jmanuel4SandMan/son-test-project
+repo_url: https://github.com/Jmanuel4SandMan/son-test-project.git
 vendor: eu.sonata-nfv.package
 version: '0.4'
